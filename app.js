@@ -11,7 +11,7 @@ function suma(a,b){
 /**
  * Clase que representa un rectángulo
  */
-class Rectangulo {
+class Cuadrado {
     /** 
          * Crea un nuevo rectángulo.
          * @param {number} ancho - El ancho del rectángulo
